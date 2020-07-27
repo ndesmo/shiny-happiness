@@ -16,8 +16,8 @@ The following R packages are required to be installed:
 
 ## License
 
-This project is published under the Apache 2.0 Open Source License
-http://www.apache.org/licenses/LICENSE-2.0
+This project is published under the GNU General Public License v3.0
+https://choosealicense.com/licenses/gpl-3.0/
 
 ## Acknowledegments
 
